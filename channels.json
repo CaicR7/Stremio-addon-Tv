@@ -30,15 +30,15 @@
   },
   {
     "id": "live_canal3",
-    "name": "Meu Canal 3",
-    "description": "Descrição do canal 3",
-    "logo": "https://placehold.co/300x450/16213e/ffffff?text=Canal+3",
-    "genres": ["Ao Vivo"],
+    "name": "Discovery Home & Health",
+    "description": "Discovery Home & Health ao vivo",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Discovery_H%26H_Logo_2022.webp",
+    "genres": ["Variedades", "Ao Vivo"],
     "streams": [
       {
-        "type": "iframe",
-        "url": "https://SEU-EMBED-URL-AQUI.com/",
-        "label": "🔴 Ao Vivo"
+        "type": "hls",
+        "url": "https://cdn1embedtvonline.xyz/MZHrZfUBfBdscvryClIsugfuQstCMTBkS/index.m3u8",
+        "label": "Discovery Home & Health Ao Vivo"
       }
     ]
   },
