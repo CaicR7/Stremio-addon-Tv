@@ -1,0 +1,143 @@
+[
+  {
+    "id": "live_espn",
+    "name": "ESPN",
+    "description": "ESPN ao vivo",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png",
+    "background": "",
+    "genres": ["Esportes", "Ao Vivo"],
+    "streams": [
+      {
+        "type": "iframe",
+        "url": "https://1.embedtvonline.com/espn/",
+        "label": "🔴 ESPN Ao Vivo"
+      }
+    ]
+  },
+  {
+    "id": "live_espn2",
+    "name": "ESPN2",
+    "description": "ESPN ao vivo 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg",
+    "genres": ["Esportes", "Ao Vivo"],
+    "streams": [
+      {
+        "type": "iframe",
+        "url": "https://1.embedtvonline.com/espn2/",
+        "label": "🔴 ESPN2 Ao Vivo"
+      }
+    ]
+  },
+  {
+    "id": "live_canal3",
+    "name": "Meu Canal 3",
+    "description": "Descrição do canal 3",
+    "logo": "https://placehold.co/300x450/16213e/ffffff?text=Canal+3",
+    "genres": ["Ao Vivo"],
+    "streams": [
+      {
+        "type": "iframe",
+        "url": "https://SEU-EMBED-URL-AQUI.com/",
+        "label": "🔴 Ao Vivo"
+      }
+    ]
+  },
+  {
+    "id": "live_canal4",
+    "name": "Meu Canal 4",
+    "description": "Descrição do canal 4",
+    "logo": "https://placehold.co/300x450/1a1a2e/ffffff?text=Canal+4",
+    "genres": ["Ao Vivo"],
+    "streams": [
+      {
+        "type": "iframe",
+        "url": "https://SEU-EMBED-URL-AQUI.com/",
+        "label": "🔴 Ao Vivo"
+      }
+    ]
+  },
+  {
+    "id": "live_canal5",
+    "name": "Meu Canal 5",
+    "description": "Descrição do canal 5",
+    "logo": "https://placehold.co/300x450/0f3460/ffffff?text=Canal+5",
+    "genres": ["Ao Vivo"],
+    "streams": [
+      {
+        "type": "iframe",
+        "url": "https://SEU-EMBED-URL-AQUI.com/",
+        "label": "🔴 Ao Vivo"
+      }
+    ]
+  },
+  {
+    "id": "live_canal6",
+    "name": "Meu Canal 6",
+    "description": "Descrição do canal 6",
+    "logo": "https://placehold.co/300x450/16213e/ffffff?text=Canal+6",
+    "genres": ["Ao Vivo"],
+    "streams": [
+      {
+        "type": "iframe",
+        "url": "https://SEU-EMBED-URL-AQUI.com/",
+        "label": "🔴 Ao Vivo"
+      }
+    ]
+  },
+  {
+    "id": "live_canal7",
+    "name": "Meu Canal 7",
+    "description": "Descrição do canal 7",
+    "logo": "https://placehold.co/300x450/1a1a2e/ffffff?text=Canal+7",
+    "genres": ["Ao Vivo"],
+    "streams": [
+      {
+        "type": "iframe",
+        "url": "https://SEU-EMBED-URL-AQUI.com/",
+        "label": "🔴 Ao Vivo"
+      }
+    ]
+  },
+  {
+    "id": "live_canal8",
+    "name": "Meu Canal 8",
+    "description": "Descrição do canal 8",
+    "logo": "https://placehold.co/300x450/0f3460/ffffff?text=Canal+8",
+    "genres": ["Ao Vivo"],
+    "streams": [
+      {
+        "type": "iframe",
+        "url": "https://SEU-EMBED-URL-AQUI.com/",
+        "label": "🔴 Ao Vivo"
+      }
+    ]
+  },
+  {
+    "id": "live_canal9",
+    "name": "Meu Canal 9",
+    "description": "Descrição do canal 9",
+    "logo": "https://placehold.co/300x450/16213e/ffffff?text=Canal+9",
+    "genres": ["Ao Vivo"],
+    "streams": [
+      {
+        "type": "iframe",
+        "url": "https://SEU-EMBED-URL-AQUI.com/",
+        "label": "🔴 Ao Vivo"
+      }
+    ]
+  },
+  {
+    "id": "live_canal10",
+    "name": "Meu Canal 10",
+    "description": "Descrição do canal 10",
+    "logo": "https://placehold.co/300x450/1a1a2e/ffffff?text=Canal+10",
+    "genres": ["Ao Vivo"],
+    "streams": [
+      {
+        "type": "iframe",
+        "url": "https://SEU-EMBED-URL-AQUI.com/",
+        "label": "🔴 Ao Vivo"
+      }
+    ]
+  }
+]
